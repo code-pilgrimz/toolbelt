@@ -5,3 +5,4 @@
 - tidy up
 - TODO clean this
 - check perf here
+- left a note for myself
