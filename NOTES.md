@@ -11,3 +11,4 @@
 - left a note for myself
 - revisit later
 - off-by-one, fixed
+- minor wording
