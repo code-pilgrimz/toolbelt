@@ -12,3 +12,4 @@
 - revisit later
 - off-by-one, fixed
 - minor wording
+- check perf here
