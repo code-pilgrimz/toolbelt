@@ -35,3 +35,4 @@
 - check perf here
 - revisit later
 - TODO clean this
+- minor wording
