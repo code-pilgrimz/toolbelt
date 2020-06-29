@@ -4,3 +4,4 @@ __version__ = "0.1.0"
 # check perf here
 # minor wording
 # off-by-one, fixed
+# tidy up
