@@ -5,3 +5,4 @@ __version__ = "0.1.0"
 # minor wording
 # off-by-one, fixed
 # tidy up
+# left a note for myself
