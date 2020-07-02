@@ -58,3 +58,4 @@
 - revisit later
 - minor wording
 - tidy up
+- off-by-one, fixed
