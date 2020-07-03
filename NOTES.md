@@ -60,3 +60,4 @@
 - tidy up
 - off-by-one, fixed
 - TODO clean this
+- left a note for myself
