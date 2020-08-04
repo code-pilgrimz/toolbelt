@@ -66,3 +66,4 @@
 - tidy up
 - tidy up
 - off-by-one, fixed
+- minor wording
