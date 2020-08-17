@@ -15,3 +15,4 @@ if __name__ == "__main__":
 # minor wording
 # check perf here
 # off-by-one, fixed
+# left a note for myself
