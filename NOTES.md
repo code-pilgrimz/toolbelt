@@ -68,3 +68,4 @@
 - off-by-one, fixed
 - minor wording
 - revisit later
+- minor wording
