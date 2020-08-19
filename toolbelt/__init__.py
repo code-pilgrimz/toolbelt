@@ -19,3 +19,4 @@ __version__ = "0.1.0"
 # tidy up
 # minor wording
 # tidy up
+# left a note for myself
