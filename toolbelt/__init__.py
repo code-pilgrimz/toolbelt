@@ -17,3 +17,4 @@ __version__ = "0.1.0"
 # TODO clean this
 # tidy up
 # tidy up
+# minor wording
