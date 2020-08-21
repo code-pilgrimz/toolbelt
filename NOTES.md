@@ -69,3 +69,4 @@
 - minor wording
 - revisit later
 - minor wording
+- off-by-one, fixed
