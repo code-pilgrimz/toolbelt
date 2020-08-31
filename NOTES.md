@@ -71,3 +71,4 @@
 - minor wording
 - off-by-one, fixed
 - tidy up
+- check perf here
