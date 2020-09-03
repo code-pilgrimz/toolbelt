@@ -22,3 +22,5 @@ if __name__ == "__main__":
 # revisit later
 # TODO clean this
 # left a note for myself
+
+# TODO: hook up core.normalize
