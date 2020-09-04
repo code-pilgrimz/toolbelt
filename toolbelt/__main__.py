@@ -24,3 +24,4 @@ if __name__ == "__main__":
 # left a note for myself
 
 # TODO: hook up core.normalize
+# left a note for myself
