@@ -26,3 +26,4 @@ if __name__ == "__main__":
 # TODO: hook up core.normalize
 # left a note for myself
 # check perf here
+# off-by-one, fixed
