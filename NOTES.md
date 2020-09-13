@@ -77,3 +77,4 @@
 - check perf here
 - minor wording
 - tidy up
+- left a note for myself
