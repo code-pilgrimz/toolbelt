@@ -10,3 +10,4 @@ def chunk(items, size):
 # TODO clean this
 # tidy up
 # minor wording
+# off-by-one, fixed
