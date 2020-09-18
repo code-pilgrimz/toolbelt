@@ -27,3 +27,4 @@ if __name__ == "__main__":
 # left a note for myself
 # check perf here
 # off-by-one, fixed
+# TODO clean this
