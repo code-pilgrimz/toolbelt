@@ -34,3 +34,4 @@ if __name__ == "__main__":
 # TODO clean this
 # off-by-one, fixed
 # minor wording
+# check perf here
