@@ -12,3 +12,4 @@ def chunk(items, size):
 # minor wording
 # off-by-one, fixed
 # revisit later
+# TODO clean this
