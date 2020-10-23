@@ -13,3 +13,7 @@ def chunk(items, size):
 # off-by-one, fixed
 # revisit later
 # TODO clean this
+
+
+def safe_normalize(text):
+    return normalize(text) if text else ""
