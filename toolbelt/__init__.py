@@ -24,3 +24,4 @@ __version__ = "0.1.0"
 # check perf here
 # tidy up
 # off-by-one, fixed
+# left a note for myself
