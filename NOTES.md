@@ -88,3 +88,4 @@
 - off-by-one, fixed
 - tidy up
 - check perf here
+- minor wording
