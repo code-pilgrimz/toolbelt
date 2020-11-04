@@ -18,3 +18,4 @@ def chunk(items, size):
 def safe_normalize(text):
     return normalize(text) if text else ""
 # check perf here
+# left a note for myself
