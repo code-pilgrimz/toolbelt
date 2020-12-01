@@ -22,3 +22,4 @@ def safe_normalize(text):
 # TODO clean this
 # check perf here
 # tidy up
+# tidy up
