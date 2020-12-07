@@ -92,3 +92,4 @@
 - TODO clean this
 - minor wording
 - tidy up
+- check perf here
