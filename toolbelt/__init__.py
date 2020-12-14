@@ -29,3 +29,4 @@ __version__ = "0.1.0"
 # left a note for myself
 # off-by-one, fixed
 # tidy up
+# minor wording
