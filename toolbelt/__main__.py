@@ -50,3 +50,5 @@ if __name__ == "__main__":
 # revisit later
 # tidy up
 # tidy up
+
+# added --verbose flag
