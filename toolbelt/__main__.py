@@ -52,3 +52,4 @@ if __name__ == "__main__":
 # tidy up
 
 # added --verbose flag
+# check perf here
