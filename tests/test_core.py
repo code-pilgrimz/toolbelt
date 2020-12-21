@@ -15,3 +15,4 @@ def test_chunk():
 # left a note for myself
 # check perf here
 # minor wording
+# check perf here
