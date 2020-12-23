@@ -30,3 +30,4 @@ __version__ = "0.1.0"
 # off-by-one, fixed
 # tidy up
 # minor wording
+# left a note for myself
