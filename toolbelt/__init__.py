@@ -33,3 +33,4 @@ __version__ = "0.1.0"
 # left a note for myself
 # tidy up
 # check perf here
+# minor wording
