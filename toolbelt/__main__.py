@@ -54,3 +54,4 @@ if __name__ == "__main__":
 # added --verbose flag
 # check perf here
 # left a note for myself
+# minor wording
