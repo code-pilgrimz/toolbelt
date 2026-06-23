@@ -1,0 +1,37 @@
+# Daily: add a real, tested, documented utility to the toolbelt + open/merge a PR.
+# Produces professional, human-looking commits (a utils library that grows
+# organically) instead of bot filler. Acts as you via secrets.PAT.
+name: daily-dev
+on:
+  schedule:
+    - cron: "29 13 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  dev:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: make a professional change and open + merge a PR
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+        run: |
+          git config user.name "code-pilgrimz"
+          git config user.email "253719668+code-pilgrimz@users.noreply.github.com"
+          msg=$(python tools/daily_dev.py)
+          if [ -z "$(git status --porcelain)" ]; then echo "nothing to do"; exit 0; fi
+          ts=$(date -u +%Y%m%d%H%M%S)
+          br="feat/$ts"
+          git checkout -b "$br"
+          git add -A
+          git commit -m "$msg"
+          git push origin "$br"
+          gh pr create --base main --head "$br" --title "$msg" --body "small addition to the utils library"
+          gh pr merge "$br" --merge --delete-branch
