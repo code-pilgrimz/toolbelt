@@ -98,3 +98,8 @@
 - minor wording
 - off-by-one, fixed
 - revisit later
+- revisit later
+- tidy up
+- check perf here
+- TODO clean this
+- tidy up
