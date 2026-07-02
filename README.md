@@ -8,3 +8,5 @@ personal cli toolbelt i actually use daily
 pip install -r requirements.txt
 python -m toolbelt
 ```
+
+<!-- maintained -->
